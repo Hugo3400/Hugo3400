@@ -1,12 +1,12 @@
-# 👋 Hey, moi c'est **Hugo**
+# 👋 Salut, moi c’est **Hugo**
 
 <div align="center">
 
-### 🚀 Développeur Passionné • Créatif • Toujours en Progression
+### 🚀 Développeur débutant • Motivé • En apprentissage
 
-✨ Bienvenue sur mon univers GitHub ! ✨
+✨ Bienvenue sur mon profil GitHub ! ✨
 
-![Wave](https://capsule-render.vercel.app/api?type=waving\&color=0:6A00F5,100:00C2FF\&height=180\&section=header\&text=Welcome%20Here!\&fontSize=45\&fontColor=fff)
+![Wave](https://capsule-render.vercel.app/api?type=waving\&color=0:6A00F5,100:00C2FF\&height=180\&section=header\&text=Bienvenue%20sur%20mon%20GitHub\&fontSize=40\&fontColor=fff)
 
 </div>
 
@@ -14,56 +14,68 @@
 
 ## 🌟 À propos de moi
 
-* 👶 **Développeur débutant** motivé et en pleine progression.
-* 💡 Je touche aux bases du **JavaScript**, **HTML**, **CSS** et **C#**.
-* 🔐 Mes projets sont actuellement **privés** le temps de m’améliorer.
-* 🚀 Objectif : apprendre, progresser et créer mes premiers vrais projets publics.
+* 👶 Je suis un **développeur débutant**, passionné par l’univers du code.
+* 💡 J’apprends actuellement : **HTML**, **CSS**, **JavaScript** et **C#**.
+* 🔐 Tous mes projets sont **privés**, le temps d’apprendre et de progresser.
+* 🎯 Objectif : créer mes premiers projets publics simples puis monter en niveau.
 
 ---
 
-## 🛠️ Technologies & Compétences
+## 🛠️ Compétences & Technologies
 
-### **💻 Langages**
+### **💻 Langages que j’apprends**
 
-![Langages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css)
+![Langages](https://skillicons.dev/icons?i=html,css,js,cs)
 
-### **⚙️ Frameworks & Outils**
+### **⚙️ Outils que j’utilise**
 
-![Outils](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,vite,docker,git,github,vscode)
+![Outils](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
-## 📊 Mes Stats GitHub
+## 📊 Mes Statistiques GitHub
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YourUsername\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=15)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Hugo3400\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=15)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername\&theme=tokyonight\&hide_border=true\&border_radius=15)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Hugo3400\&theme=tokyonight\&hide_border=true\&border_radius=15)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=15)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo3400\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=15)
 
 </div>
 
 ---
 
-## 🧩 Projets mis en avant
+## 🧩 Projets
 
-🚧 Pour l’instant mes projets sont **privés**, mais des choses arrivent bientôt !
+🚧 **Encore en construction !**
+Mes projets sont actuellement **privés**, mais je publierai bientôt mes premiers tests et mini-applications.
 
 ---
 
-## 🌐 Me contacter
+## 🎯 Ma Roadmap d’Apprentissage
 
-🙅 Pour le moment, **pas de contacts publics**.
+* ✔️ Bases en HTML / CSS
+* ✔️ Premiers scripts JavaScript
+* ⏳ Apprentissage de C#
+* 🚧 Création de petits projets (calculatrices, mini-jeux…)
+* 🔜 Publier mes premiers dépôts publics
+* 🎯 Apprendre un framework (React ou autre)
+
+---
+
+## 🌐 Contact
+
+🙅 Pour le moment, **aucun contact public**.
 
 ---
 
 <div align="center">
 
-### ✨ Merci de passer sur mon profil ! ✨
+### ✨ Merci d’être passé ! ✨
 
-**N'hésite pas à laisser une ⭐ quand mes futurs projets sortiront !**
+**Reviens bientôt : mes premiers projets arriveront prochainement !**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00C2FF,100:6A00F5\&height=120\&section=footer)
 
