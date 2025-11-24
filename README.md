@@ -1,4 +1,4 @@
-# 👋 Hey, moi c'est **YourName**
+# 👋 Hey, moi c'est **Hugo**
 
 <div align="center">
 
@@ -14,10 +14,10 @@
 
 ## 🌟 À propos de moi
 
-* 💡 **Toujours curieux** d'apprendre et de créer.
-* 🧠 Intéressé par : **le développement web, le backend, l'IA, l’automatisation…**
-* 🔥 Objectif : *Devenir un développeur complet et polyvalent.*
-* 🛠️ J'adore concevoir des projets stylés et optimisés.
+* 👶 **Développeur débutant** motivé et en pleine progression.
+* 💡 Je touche aux bases du **JavaScript**, **HTML**, **CSS** et **C#**.
+* 🔐 Mes projets sont actuellement **privés** le temps de m’améliorer.
+* 🚀 Objectif : apprendre, progresser et créer mes premiers vrais projets publics.
 
 ---
 
@@ -49,22 +49,13 @@
 
 ## 🧩 Projets mis en avant
 
-🚀 **Projet 1** - 
-🔗 Lien : 
-
-🔥 **Projet 2** — 
-🔗 Lien : 
-
-🌙 **Projet 3** — 
-🔗 Lien : 
+🚧 Pour l’instant mes projets sont **privés**, mais des choses arrivent bientôt !
 
 ---
 
 ## 🌐 Me contacter
 
-📩 Email : *[youremail@example.com](mailto:youremail@example.com)*
-🔗 LinkedIn : *Votre lien*
-🐦 Twitter : *@votrePseudo*
+🙅 Pour le moment, **pas de contacts publics**.
 
 ---
 
@@ -72,7 +63,7 @@
 
 ### ✨ Merci de passer sur mon profil ! ✨
 
-**N'hésite pas à laisser une ⭐ sur mes projets si ils te plaisent !**
+**N'hésite pas à laisser une ⭐ quand mes futurs projets sortiront !**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00C2FF,100:6A00F5\&height=120\&section=footer)
 
