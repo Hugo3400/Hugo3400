@@ -1,82 +1,77 @@
-# 👋 Salut, moi c’est **Hugo**
+<!-- Profil README — Hugo3400 -->
 
-<div align="center">
+<h1 align="center">Salut, moi c’est Hugo 👋</h1>
+<p align="center">
+  <b>Développeur débutant</b> • Curieux • En progression constante
+</p>
 
-### 🚀 Développeur débutant • Motivé • En apprentissage
-
-✨ Bienvenue sur mon profil GitHub ! ✨
-
-![Wave](https://capsule-render.vercel.app/api?type=waving\&color=0:6A00F5,100:00C2FF\&height=180\&section=header\&text=Bienvenue%20sur%20mon%20GitHub\&fontSize=40\&fontColor=fff)
-
-</div>
-
----
-
-## 🌟 À propos de moi
-
-* 👶 Je suis un **développeur débutant**, passionné par l’univers du code.
-* 💡 J’apprends actuellement : **HTML**, **CSS**, **JavaScript** et **C#**.
-* 🔐 Tous mes projets sont **privés**, le temps d’apprendre et de progresser.
-* 🎯 Objectif : créer mes premiers projets publics simples puis monter en niveau.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hugo3400&label=Vues%20du%20profil&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Compétences & Technologies
-
-### **💻 Langages que j’apprends**
-
-![Langages](https://skillicons.dev/icons?i=html,css,js,cs)
-
-### **⚙️ Outils que j’utilise**
-
-![Outils](https://skillicons.dev/icons?i=git,github,vscode)
+## 🚀 À propos
+- 🧠 J’apprends et je pratique le développement au quotidien  
+- 🧩 En ce moment : **HTML / CSS / JavaScript / C#**
+- 🎯 Objectif : publier des projets **simples, utiles et propres**, puis monter en puissance
+- 🔒 Certains projets restent privés le temps d’être “présentables”
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## 🧰 Tech & Outils
+### Langages (en apprentissage)
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9b59b6" />
+</p>
 
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Hugo3400\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=15)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Hugo3400\&theme=tokyonight\&hide_border=true\&border_radius=15)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo3400\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=15)
-
-</div>
-
----
-
-## 🧩 Projets
-
-🚧 **Encore en construction !**
-Mes projets sont actuellement **privés**, mais je publierai bientôt mes premiers tests et mini-applications.
+### Outils
+<p>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=2aa7f7" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 🎯 Ma Roadmap d’Apprentissage
+## 📌 Projets
+- 🖥️ **OptiWindows** — outil d’optimisation Windows (150+ fonctionnalités)  
+  👉 https://github.com/Hugo3400/OptiWindows
 
-* ✔️ Bases en HTML / CSS
-* ✔️ Premiers scripts JavaScript
-* ⏳ Apprentissage de C#
-* 🚧 Création de petits projets (calculatrices, mini-jeux…)
-* 🔜 Publier mes premiers dépôts publics
-* 🎯 Apprendre un framework (React ou autre)
+- 🧪 D’autres projets arrivent : mini-apps, scripts, tests, petits outils.
 
 ---
 
-## 🌐 Contact
+## 📈 Statistiques
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hugo3400&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo3400&layout=compact&theme=transparent" />
+</p>
 
-🙅 Pour le moment, **aucun contact public**.
+<p>
+  <img height="170" src="https://streak-stats.demolab.com?user=Hugo3400&theme=transparent" />
+</p>
 
 ---
 
-<div align="center">
+## 🗺️ Roadmap (progression)
+- ✅ Bases HTML / CSS  
+- ✅ Premiers scripts JavaScript  
+- ⏳ C# (en cours)  
+- 🔜 Petits projets : calculatrice, mini-jeu, to-do, tool simple  
+- 🔜 Publier davantage de dépôts publics  
+- 🔜 Découvrir un framework (React ou autre)
 
-### ✨ Merci d’être passé ! ✨
+---
 
-**Reviens bientôt : mes premiers projets arriveront prochainement !**
+## 🤝 Me contacter
+Pour l’instant : pas de contact public.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00C2FF,100:6A00F5\&height=120\&section=footer)
+---
 
-</div>
+<p align="center">
+  <i>Merci d’être passé — nouveaux dépôts à venir ✨</i>
+</p>
