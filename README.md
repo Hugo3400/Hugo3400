@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Développeur+indépendant;React+%C2%B7+Node.js+%C2%B7+Discord.js+%C2%B7+C%23+%2F+.NET;Je+construis%2C+je+teste%2C+je+livre." alt="Développeur indépendant · React, Node.js, Discord.js, C# / .NET · Je construis, je teste, je livre." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+ind%C3%A9pendant;React+%C2%B7+Node.js+%C2%B7+Discord.js+%C2%B7+C%23+%2F+.NET;Je+construis%2C+je+teste%2C+je+livre." alt="Développeur indépendant · React, Node.js, Discord.js, C# / .NET · Je construis, je teste, je livre." />
 
 <br/>
 
