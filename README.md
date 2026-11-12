@@ -1,83 +1,68 @@
 <!-- Profil README — Hugo3400 -->
 
-<h1 align="center">Hugo</h1>
+<div align="center">
 
-<p align="center">
-  <b>Développeur indépendant · Fondateur de CTA-15</b><br/>
-  <sub>Jeux, outils et bots Discord, construits en JavaScript</sub>
-</p>
+<img src="assets/header.svg" alt="Hugo — Développeur indépendant" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Développeur+de+jeux+indépendant;React+%C2%B7+Node.js+%C2%B7+Discord.js;Je+construis%2C+je+teste%2C+je+livre." alt="Typing SVG" />
-</p>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Développeur+indépendant;React+%C2%B7+Node.js+%C2%B7+Discord.js+%C2%B7+C%23+%2F+.NET;Je+construis%2C+je+teste%2C+je+livre." alt="Développeur indépendant · React, Node.js, Discord.js, C# / .NET · Je construis, je teste, je livre." />
 
-### À propos
+<br/>
 
-Je suis Hugo, développeur indépendant basé en France. Je conçois mes projets de A à Z : le code, l'hébergement sur mon propre serveur Linux et l'animation des communautés Discord qui vont avec.
+[![Followers](https://img.shields.io/github/followers/Hugo3400?style=flat-square&label=followers&labelColor=1a1b26&color=7aa2f7)](https://github.com/Hugo3400?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Hugo3400?style=flat-square&label=stars&labelColor=1a1b26&color=bb9af7)](https://github.com/Hugo3400?tab=repositories)
+![France](https://img.shields.io/badge/bas%C3%A9_en-France-7dcfff?style=flat-square&labelColor=1a1b26)
 
-Mon projet principal est **CTA-15**, un jeu de simulation des services d'urgence français, accompagné de son bot Discord. À côté, je développe des outils utilitaires et des applications web. J'apprends en construisant : chaque projet me sert à monter d'un cran.
+**[À propos](#-à-propos)** &nbsp;·&nbsp; **[Stack](#-stack)** &nbsp;·&nbsp; **[Projets](#-projets)** &nbsp;·&nbsp; **[En ce moment](#-en-ce-moment)** &nbsp;·&nbsp; **[Activité](#-activité)**
+
+</div>
+
+<br/>
+
+## 👋 À propos
+
+Je suis **Hugo**, développeur indépendant basé en France. Je conçois mes projets de A à Z : le code, l'hébergement sur mon propre serveur Linux et l'animation des communautés Discord qui vont avec.
+
+Je développe des applications et des outils pour le web et pour Windows, ainsi que des bots Discord.
+
+> J'apprends en construisant : chaque projet me sert à monter d'un cran.
+
+## 🧰 Stack
+
+| Domaine | Technologies |
+| :-- | :-- |
+| **Front-end** | ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4) |
+| **Back-end & bots** | ![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Discord.js](https://img.shields.io/badge/Discord.js-1a1b26?style=flat-square&logo=discord&logoColor=5865F2) |
+| **Applications Windows** | ![C#](https://img.shields.io/badge/C%23-1a1b26?style=flat-square&logo=dotnet&logoColor=9B7BEA) ![.NET](https://img.shields.io/badge/.NET-1a1b26?style=flat-square&logo=dotnet&logoColor=9B7BEA) ![WPF](https://img.shields.io/badge/WPF-1a1b26?style=flat-square&logo=dotnet&logoColor=9B7BEA) |
+| **Infra & outils** | ![Debian](https://img.shields.io/badge/Debian-1a1b26?style=flat-square&logo=debian&logoColor=D70A53) ![Linux](https://img.shields.io/badge/Linux-1a1b26?style=flat-square&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-1a1b26?style=flat-square&logoColor=2AA7F7) |
+
+## 🚀 Projets
+
+|     | Projet | Description |
+| :-: | :-- | :-- |
+| 🎮 | [**Express Luncher**](https://github.com/Hugo3400/Express-Luncher) | Launcher Windows qui regroupe dans une seule bibliothèque les jeux installés depuis Steam, Epic Games, GOG, EA, Ubisoft et d'autres plateformes. *En développement.* |
+| 🗄️ | [**TabulaDB**](https://github.com/Hugo3400/TabulaDB-releases) | Client de bases de données pour Windows : MariaDB/MySQL, PostgreSQL et SQLite. |
+| ⚡ | **OptiWindows** | Outil d'optimisation Windows regroupant plus de 150 réglages pour les performances et la gestion du système. |
 
 Certains dépôts restent privés le temps de leur développement.
 
----
+## 🔭 En ce moment
 
-### Stack
+- 🎮 Je construis **Express Luncher** en C# / .NET
+- 📘 Je consolide **TypeScript**
+- 🛠️ Je prépare de nouveaux outils
 
-**Front-end**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-</p>
+## 📈 Activité
 
-**Back-end & bots**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/Discord.js-0d1117?style=flat-square&logo=discord&logoColor=5865F2" />
-  <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4" />
-</p>
+<div align="center">
 
-**Infra & outils**
-<p>
-  <img src="https://img.shields.io/badge/Debian-0d1117?style=flat-square&logo=debian&logoColor=A81D33" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=2AA7F7" />
-</p>
+<img height="165" src="https://streak-stats.demolab.com?user=Hugo3400&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo3400&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité GitHub" />
 
-### Projets
+<br/><br/>
 
-| Projet | Description |
-|---|---|
-| **CTA-15** | Jeu de simulation des services d'urgence français, avec son bot Discord dédié. *En développement.* |
-| [**OptiWindows**](https://github.com/Hugo3400/OptiWindows) | Outil d'optimisation Windows regroupant plus de 150 réglages pour les performances et la gestion du système. |
+<sub>« Je construis, je teste, je livre. »</sub>
 
----
-
-### En ce moment
-
-Je consolide TypeScript, je fais avancer CTA-15 et je prépare de nouveaux outils open source.
-
----
-
-### Activité
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Hugo3400&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo3400&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Hugo3400">GitHub</a>
-</p>
+</div>
